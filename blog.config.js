@@ -2,7 +2,7 @@ const BLOG = {
   title: 'PiecesRed',
   author: 'Pieces',
   email: 'susiedu11@gmail.com',
-  link: 'https://piecesred.vercel.app',
+  link: 'https://noteblog.vercel.app/',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
